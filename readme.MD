@@ -9,6 +9,11 @@
 
 * batter added and oil added
 
-# EGG-Dosa
-* dosa batter
-* 1 egges and oil
+
+
+# egg-dosa
+
+* 1/2 eggs and oil added 
+
+
+
