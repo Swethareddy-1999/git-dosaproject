@@ -12,4 +12,4 @@
 
 # egg-dosa
 
-* 
+* 1/2 eggs and oil added 
