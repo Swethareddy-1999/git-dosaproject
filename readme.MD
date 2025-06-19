@@ -11,3 +11,4 @@
 
 # EGG-Dosa
 * dosa batter
+* 1 egges and oil
