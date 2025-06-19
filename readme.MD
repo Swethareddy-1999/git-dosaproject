@@ -8,3 +8,6 @@
 # karam-dosa
 
 * batter added and oil added
+
+# EGG-Dosa
+* dosa batter
